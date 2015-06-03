@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beginning
+summary: My midlife crisis or how I learned to stop worrying and love the math.
 ---
 
 I'm a software engineer. Have been for some time now. About a year ago, I got a
