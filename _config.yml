@@ -28,7 +28,6 @@ linkedin_username: rongou
 angellist_username: rongou
 bitcoin_url: https://www.coinbase.com/rongou
 paypal_url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2JCB8RGAT9NVW
-flattr_button: <script id='fbv6ajq'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=rongou&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbv6ajq');</script>
 
 # Post sharing icons
 show_sharing_icons: true
